@@ -1,5 +1,5 @@
 # DSS_project1
-DSS Team Project - Linear Regression
+DSS Team Project - Linear Regression - Price Predition of Used cars
 
 [Participants] Yongsung Ahn, Jaewan Choi, Sanghun Park
 
